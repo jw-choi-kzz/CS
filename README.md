@@ -1,2 +1,2 @@
-# CS
-CS  공부 내용 정리
+# CS & techblog
+CS + techblog 내용 정리
